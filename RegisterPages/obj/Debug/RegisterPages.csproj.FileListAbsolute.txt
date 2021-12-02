@@ -1,0 +1,6 @@
+C:\Users\thema\Documents\Visual Studio 2022\Project\RegisterPages\RegisterPages\obj\Debug\RegisterPages.csproj.AssemblyReference.cache
+C:\Users\thema\Documents\Visual Studio 2022\Project\RegisterPages\RegisterPages\obj\Debug\RegisterPages.csproj.SuggestedBindingRedirects.cache
+C:\Users\thema\Documents\Visual Studio 2022\Project\RegisterPages\RegisterPages\obj\Debug\MainWindow.g.cs
+C:\Users\thema\Documents\Visual Studio 2022\Project\RegisterPages\RegisterPages\obj\Debug\App.g.cs
+C:\Users\thema\Documents\Visual Studio 2022\Project\RegisterPages\RegisterPages\obj\Debug\RegisterPages_MarkupCompile.cache
+C:\Users\thema\Documents\Visual Studio 2022\Project\RegisterPages\RegisterPages\obj\Debug\RegisterPages_MarkupCompile.lref
